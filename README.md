@@ -1,11 +1,20 @@
 ﻿# React-ShoppingList
 
-## Getting Started:
+This is a React web application for a shopping website.
+
+## Features
+
+* Browse a list of products
+* View product details
+* Add items to a shopping cart
+* Remove items from the shopping cart
+* Checkout process (implementation details may vary)
+
+## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Tushar-Dhingra/new-portfolio
-
+      ```bash
+   git clone https://github.com/Tushar-Dhingra/React-ShoppingList.git
 
 2. **Install dependencies:**
    ```bash
