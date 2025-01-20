@@ -25,6 +25,15 @@ This is a React web application for a shopping website.
     npm start
 The website will be accessible at http://localhost:3000 in your browser.
 
+## Usage
+
+The application is a single-page application (SPA) built with React. The main components of the application are:
+
+1. ProductList: This component displays a list of products.
+2. ProductDetails: This component displays the details of a specific product.
+3. ShoppingCart: This component displays the items in the shopping cart.
+4. Checkout: This component handles the checkout process.
+
 ## Contributing:
 
 Contributions are welcome! Please follow these guidelines:
